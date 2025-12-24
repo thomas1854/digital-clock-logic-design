@@ -66,3 +66,14 @@ The system is implemented using fundamental **digital logic components**, focusi
 This repository includes:
 - **Proteus simulation file** of the digital clock circuit
 - **Project report (PDF)** explaining the design, components, and operation
+
+---
+
+## 👥 Team Members
+- Badr Ahmed ([GitHub](https://github.com/KIRA-20000))
+- Toqa Hany ([GitHub](https://github.com/Toqa-Hany))
+- Toqa Khaled ([GitHub](https://github.com/Toka7806))
+- Gommana Mohamed ([GitHub](https://github.com/GoGo285))
+- Thomas Hany ([GitHub](https://github.com/thomas1854))
+
+---
