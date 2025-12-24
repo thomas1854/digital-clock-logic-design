@@ -58,7 +58,7 @@ The system is implemented using fundamental **digital logic components**, focusi
 ---
 
 ## 📷 Project Media
-*(Add screenshots, circuit diagrams, or simulation images here)*
+![Hardware Implementation](digital-clock-image.jpg)
 
 ---
 
