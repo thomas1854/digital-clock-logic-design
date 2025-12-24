@@ -50,6 +50,12 @@ The system is implemented using fundamental **digital logic components**, focusi
 - Alarm compares the current time with a preset value and triggers an output.
 
 ---
+## 📝 Notes
+- The clock counts from **00:00:00 to 11:59:59**.
+- After reaching **11:59:59**, the clock resets to **00:00:00**.
+- Therefore, **12:00:00 is represented as 00:00:00** in this design.
+
+---
 
 ## 📷 Project Media
 *(Add screenshots, circuit diagrams, or simulation images here)*
